@@ -39,10 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+This is for when you lose the game, if you win the game you will get the notification that you win and the game is over.
+![](![Uploading Kapture 2022-03-20 at 23.44.50.gif…]())
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -71,7 +70,7 @@ I think the designs of the buttons can be improved and the overall look of the w
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/1dcc846150d141a6ac39fdd3a96cf796)
 
 
 ## License
@@ -90,4 +89,3 @@ I think the designs of the buttons can be improved and the overall look of the w
     See the License for the specific language governing permissions and
     limitations under the License.
 
-==========================================================================================================================================================
