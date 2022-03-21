@@ -39,8 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-This is for when you lose the game, if you win the game you will get the notification that you win and the game is over.
-![](![Uploading Kapture 2022-03-20 at 23.44.50.gif…]())
+I was going to upload the whole game but it says the file size has to be less than 10MB to be able to upload, so I will just be uploading a small snippet.
+![testing](![Kapture 2022-03-21 at 00 50 33](https://user-images.githubusercontent.com/49323077/159221949-1508ff23-3282-46b6-8735-bb0ea96ce07b.gif))
 
 
 ## Reflection Questions
