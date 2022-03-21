@@ -1,0 +1,132 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: 'Abril Fatface';
+  line-height: 1.5;
+  color: white; 
+  text-align: center;
+  background-size: 100%;
+  background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/jjk.jpeg?v=1647736027851)
+}
+
+h1{
+  font-family: 'Abril Fatface';
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+  background-color: lavender;
+  font-family: 'Abril Fatface';
+  
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+#gameButtonArea > button {
+  width:150px;
+  height:150px;
+  margin:2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: lightgreen;
+}
+
+#button2 {
+    background: lightblue;
+}
+
+#button3 {
+    background: pink;
+}
+
+#button4 {
+    background: lightyellow;
+}
+
+#button5 {
+    background: #E6E6FA;
+}
+
+#button6 {
+    background: #FBB0A0;
+}
+
+#button7 {
+    background: #A0FBD4;
+}
+
+#button8 {
+    background: #E5E8E8;
+}
+
+#button9 {
+    background: #FBCEB1;
+}
+
+#button1:active, #button1.lit{
+    background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/gojo1.png?v=1647734300525);
+    background-size: 170px 146px;
+}
+
+#button2:active, #button2.lit{
+    background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/gojo2.jpeg?v=1647734305001);
+    background-size: 150px 146px;
+}
+
+#button3:active, #button3.lit{
+    background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/gojo3.jpeg?v=1647734309752);
+    background-size: 150px 146px;
+}
+
+#button4:active, #button4.lit{
+    background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/gojo4.jpeg?v=1647734314825);
+    background-size: 150px 146px;
+}
+
+#button5:active, #button5.lit{
+    background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/gojo5.jpeg?v=1647734319357);
+    background-size: 150px 146px;
+}
+
+#button6:active, #button6.lit{
+    background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/gojo6.jpeg?v=1647734324125);
+    background-size: 150px 146px;
+}
+
+#button7:active, #button7.lit{
+    background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/gojo7.jpeg?v=1647734328060);
+    background-size: 150px 146px;
+}
+
+#button8:active, #button8.lit{
+    background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/gojo8.jpeg?v=1647734333793);
+    background-size: 150px 146px;
+}
+
+#button9:active, #button9.lit{
+    background-image: url(https://cdn.glitch.global/762dd298-41cf-44e4-824b-8d7dffd31b11/gojo9.jpeg?v=1647734338087);
+    background-size: 150px 146px;
+}
